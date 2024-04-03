@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = CoreTests
+build_property.ProjectDir = E:\Programming\RevitPlugin\RevitPlugin - Copy\CoreTests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
